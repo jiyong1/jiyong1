@@ -6,4 +6,4 @@
 
 ✉ jyong9591@gmail.com
 
-🧐 ![Notion](https://www.notion.so/c0736abeca144edab3de8b6d97ce6957)
+🧐 [Notion](https://www.notion.so/c0736abeca144edab3de8b6d97ce6957)
