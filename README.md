@@ -12,4 +12,6 @@
 
 🧐 [Notion](https://www.notion.so/c0736abeca144edab3de8b6d97ce6957)
 
+🚧 [blog](https://jiyong1.github.io/)(Under construction..)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyong1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
