@@ -8,6 +8,8 @@
 
 💻 **SSAFY** (21.01 ~ 21.06)
 
+💻 **Woowahan Techcamp** (21.07 ~ 21.08)
+
 ✉ jyong9591@gmail.com
 
 🚧 [blog](https://jiyong1.github.io/)(Under construction..)
