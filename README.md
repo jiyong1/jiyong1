@@ -8,7 +8,7 @@
 
 💻 **SSAFY** (21.01 ~ 21.06)
 
-💻 **Woowahan Techcamp** (21.07 ~ 21.08)
+💻 **Woowahan Techcamp (FE intern)** (21.07 ~ 21.08)
 
 ✉ jyong9591@gmail.com
 
