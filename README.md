@@ -20,7 +20,7 @@
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,TypeScript,React)](https://github.com/jiyong1)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages and Framework&badges=JavaScript,Python,C++)](https://github.com/kijepark)
+[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=JavaScript,TypeScript,React,Vue.js,Python,C++)](https://github.com/jiyong1)
 
 <br>
 
