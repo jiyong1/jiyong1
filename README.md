@@ -2,13 +2,15 @@
 
 # 😎 김 지용, JiYong Kim
 
-**1995.08.13**
+## Experience
 
 ✏ **Seoultech** (14.03 ~ 21.02)
 
 💻 **SSAFY** (21.01 ~ 21.06)
 
 💻 **Woowahan Techcamp (FE intern)** (21.07 ~ 21.08)
+
+## Contact
 
 ✉ jyong9591@gmail.com
 
