@@ -1,5 +1,7 @@
 # 😎 김 지용, JiYong Kim
 
+> FE Developer
+
 ## Experience
 
 ✏ **Seoultech** (14.03 ~ 21.02)
@@ -8,21 +10,11 @@
 
 💻 **Woowahan Techcamp (FE intern)** (21.07 ~ 21.08)
 
-<br>
-
-## Contact
-
-✉ jyong9591@gmail.com
-
-<br>
 
 ## Skill
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,TypeScript,React)](https://github.com/jiyong1)
 
-[![Badge](https://widget.realdeveloper.pro/api/badge?title=Skills&badges=JavaScript,TypeScript,React,Vue.js,Python,C++)](https://github.com/jiyong1)
-
-<br>
 
 ## More..
 
