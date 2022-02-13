@@ -10,6 +10,8 @@
 
 💻 **Woowahan Techcamp (FE intern)** (21.07 ~ 21.08)
 
+💻 **laftel FE Developer** (22.02 ~)
+
 
 ## Skill
 
