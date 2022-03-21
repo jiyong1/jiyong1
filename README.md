@@ -15,7 +15,7 @@
 
 ## Skill
 
-[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,TypeScript,React)](https://github.com/jiyong1)
+[![Top Stack](https://widget.realdeveloper.pro/api/top?stack=TypeScript,JavaScript,React)](https://github.com/jiyong1)
 
 
 ## More..
