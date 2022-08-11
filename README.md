@@ -2,7 +2,7 @@
 
 > FE Developer
 
-## Experience
+## Experiences
 
 ✏ **Seoultech** (14.03 ~ 21.02)
 
@@ -13,7 +13,7 @@
 💻 **laftel FE Developer** (22.02 ~)
 
 
-## Skill
+## Skills
 
 [![Top Stack](https://widget.realdeveloper.pro/api/top?stack=TypeScript,JavaScript,React)](https://github.com/jiyong1)
 
@@ -21,5 +21,3 @@
 ## More..
 
 ✍️ [blog](https://jiyong1.github.io)
-
-📃 [Notion](https://www.notion.so/c0736abeca144edab3de8b6d97ce6957)
