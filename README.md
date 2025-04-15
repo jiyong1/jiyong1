@@ -2,7 +2,7 @@
 
 > FE Developer
 
-💻 **Woowahan Techcamp (FE intern)** (21.07 ~ 21.08)
+💻 **Woowahan Techcamp (FE intern)**
 
 💻 **LAFTEL FE Developer** (22.02 ~)
 
